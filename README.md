@@ -1,2 +1,4 @@
-# railway_torch
-A torch code made with 3 led and 3 buttons for railway system.
+To Use this file clone it or download from repository: ()
+Open arduino ide and import this folder.
+Upload the code
+THIS CODE IS TESTED ON ARDUINO NANO V3.
